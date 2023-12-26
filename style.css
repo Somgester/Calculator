@@ -58,3 +58,14 @@ button:hover {
   margin-bottom: 20px;
   justify-content: center;
 } */
+
+/* button#equal{
+  background-color: black;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+} */
+
+.equals{
+  width: 5.3rem;
+}
