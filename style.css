@@ -25,6 +25,10 @@ body {
   margin-top: 20px;
 }
 
+.buttons button:last-child{
+  width: calc(100% + 5.3rem);
+}
+
 button {
   padding: 20px;
   font-size: 18px;
@@ -47,6 +51,7 @@ button:hover {
   font-size: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
+  height: 5vh;
 }
 
 /* input {
