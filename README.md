@@ -13,7 +13,7 @@ A simple calculator application built using HTML, CSS, and JavaScript.
 # Getting Started
   ## Clone this repository to your local machine through cmd/terminal.
     git clone "https://github.com/Somgester/Calculator.git"
-    
+  ## Use
     Open the index.html file in a web browser.
     Start using the calculator!
     Using the Calculator
