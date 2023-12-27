@@ -27,6 +27,8 @@ body {
 
 .buttons button:last-child{
   width: calc(100% + 5.3rem);
+  background-color: green;
+  color:white;
 }
 
 button {
